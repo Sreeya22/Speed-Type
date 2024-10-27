@@ -17,9 +17,9 @@ When the timer reaches zero, a pop-up will display your score, and you can choos
 
 ## Code Structure
 
-Slider Animation: Displays "Speed Typing App" as a scrolling text on top of the app.
-Timer Function: Handles the countdown timer, displaying time left and ending the game when time runs out.
-Game Logic: Checks typed words for correctness, updates scores, and displays a new word for each correct or missed entry.
+Slider Animation: Displays "Speed Typing App" as a scrolling text on top of the app.<br/>
+Timer Function: Handles the countdown timer, displaying time left and ending the game when time runs out.<br/>
+Game Logic: Checks typed words for correctness, updates scores, and displays a new word for each correct or missed entry.<br/>
 
 ## Requirements
 1. Python 3.x
