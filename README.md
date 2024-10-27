@@ -9,11 +9,11 @@ Speed Typing App is a Python-based typing speed test application. This project c
 - **Retry Option:** After each round, users can opt to play again and try to beat their previous score.
 
 ## How to Play
-Launch the app, and you'll see a "Start Typing" prompt and a word displayed on the screen.
-Type the word in the entry field and press Enter.
-For every correct entry, your score will increase, and a new word will appear.
-If you enter the word incorrectly, it will be counted as a "miss."
-When the timer reaches zero, a pop-up will display your score, and you can choose to play again.
+Launch the app, and you'll see a "Start Typing" prompt and a word displayed on the screen.<br/>
+Type the word in the entry field and press Enter.<br/>
+For every correct entry, your score will increase, and a new word will appear.<br/>
+If you enter the word incorrectly, it will be counted as a "miss."<br/>
+When the timer reaches zero, a pop-up will display your score, and you can choose to play again.<br/>
 
 ## Code Structure
 
@@ -33,5 +33,5 @@ Game Logic: Checks typed words for correctness, updates scores, and displays a n
 `python speed_typing.py`
 
 ## Dependencies
-**Tkinter:** Used for building the GUI.
+**Tkinter:** Used for building the GUI.<br/>
 **Random:** Used for shuffling words in each game session.
