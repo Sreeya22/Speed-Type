@@ -3,10 +3,10 @@
 Speed Typing App is a Python-based typing speed test application. This project challenges users to type words displayed on the screen as quickly and accurately as possible. It records the user's typing speed in terms of words per minute (WPM) and accuracy by tracking the number of correct and incorrect entries. This is an interactive app designed with Python's Tkinter library.
 
 ## Features
--**Real-time Typing Speed Test:** Words appear on the screen for users to type, allowing them to test and improve their typing speed.
--**Scoring System:** Tracks the number of correctly typed words (Hits), incorrect words (Misses), and calculates a total score.
--**Dynamic Countdown Timer:** A 60-second timer is set for each round, challenging users to type as many words as possible before time runs out.
--**Retry Option:** After each round, users can opt to play again and try to beat their previous score.
+- **Real-time Typing Speed Test:** Words appear on the screen for users to type, allowing them to test and improve their typing speed.
+- **Scoring System:** Tracks the number of correctly typed words (Hits), incorrect words (Misses), and calculates a total score.
+- **Dynamic Countdown Timer:** A 60-second timer is set for each round, challenging users to type as many words as possible before time runs out.
+- **Retry Option:** After each round, users can opt to play again and try to beat their previous score.
 
 ## How to Play
 Launch the app, and you'll see a "Start Typing" prompt and a word displayed on the screen.
