@@ -22,14 +22,14 @@ Timer Function: Handles the countdown timer, displaying time left and ending the
 Game Logic: Checks typed words for correctness, updates scores, and displays a new word for each correct or missed entry.
 
 ## Requirements
-1.Python 3.x
-2.Tkinter library (comes pre-installed with Python)
-3.words.py file containing a list of words for the typing test
+1. Python 3.x
+2. Tkinter library (comes pre-installed with Python)
+3. words.py file containing a list of words for the typing test
 
 ## Setup
-1.Clone or download this repository.
-2.Ensure you have words.py with a list of words for the typing challenge.
-3.Run the script using Python:
+1. Clone or download this repository.
+2. Ensure you have words.py with a list of words for the typing challenge.
+3. Run the script using Python:
 `python speed_typing.py`
 
 ## Dependencies
